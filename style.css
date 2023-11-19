@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+}
+
+.card-img-top{
+    height: 223px;
+}
+
+.information{
+    display: flex;
+    justify-content: center;
+}
